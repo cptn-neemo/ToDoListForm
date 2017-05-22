@@ -1,0 +1,9 @@
+C:\Users\default.bigamus\Documents\Visual Studio 2017\Projects\Challenges\ToDoListForm\ToDoListForm\bin\Debug\ToDoListForm.exe.config
+C:\Users\default.bigamus\Documents\Visual Studio 2017\Projects\Challenges\ToDoListForm\ToDoListForm\bin\Debug\ToDoListForm.exe
+C:\Users\default.bigamus\Documents\Visual Studio 2017\Projects\Challenges\ToDoListForm\ToDoListForm\bin\Debug\ToDoListForm.pdb
+C:\Users\default.bigamus\Documents\Visual Studio 2017\Projects\Challenges\ToDoListForm\ToDoListForm\obj\Debug\ToDoListForm.csprojResolveAssemblyReference.cache
+C:\Users\default.bigamus\Documents\Visual Studio 2017\Projects\Challenges\ToDoListForm\ToDoListForm\obj\Debug\ToDoListForm.Form1.resources
+C:\Users\default.bigamus\Documents\Visual Studio 2017\Projects\Challenges\ToDoListForm\ToDoListForm\obj\Debug\ToDoListForm.Properties.Resources.resources
+C:\Users\default.bigamus\Documents\Visual Studio 2017\Projects\Challenges\ToDoListForm\ToDoListForm\obj\Debug\ToDoListForm.csproj.GenerateResource.Cache
+C:\Users\default.bigamus\Documents\Visual Studio 2017\Projects\Challenges\ToDoListForm\ToDoListForm\obj\Debug\ToDoListForm.exe
+C:\Users\default.bigamus\Documents\Visual Studio 2017\Projects\Challenges\ToDoListForm\ToDoListForm\obj\Debug\ToDoListForm.pdb
